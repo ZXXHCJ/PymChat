@@ -1,2 +1,2 @@
 # PymChat
-ThridParty-PymChat For ZeppOS
+ThridParty PymChat For-ZeppOS
